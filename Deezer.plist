@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://down.weapp.com/apps/zb/002/74/53/88/5b24545d1a2ab4e16254efed.ipa?md=b54ba717ed250a02b821270d9437a0ad</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.deezer.Deezer</string>
+				<key>bundle-version</key>
+				<string>6.24.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Deezer++</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
