@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://iosem.us/ipa/moviebox.ipa</string>
+					<string>https://github.com/liamw35/ExtraiOS/blob/master/Movie%20Box.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
